@@ -1,5 +1,10 @@
 test
 test
+<<<<<<< HEAD
 
 
 test5
+=======
+test123
+test345
+>>>>>>> refs/remotes/origin/SP
